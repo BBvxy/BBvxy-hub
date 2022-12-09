@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("bbvxy hub v 0.2", "BloodTheme")
+local Window = Library.CreateLib("bbvxy hub v0.2", "BloodTheme")
 
 local Tab = Window:NewTab("Welcome")
 local PlayerSection = Tab:NewSection("thanks for using bbvxy hub")
