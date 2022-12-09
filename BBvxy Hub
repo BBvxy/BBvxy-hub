@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("bbvxy hub", "BloodTheme")
+local Window = Library.CreateLib("bbvxy hub v 0.2", "BloodTheme")
 
 local Tab = Window:NewTab("Welcome")
 local PlayerSection = Tab:NewSection("thanks for using bbvxy hub")
@@ -35,7 +35,7 @@ onSelected(game.Players.LocalPlayer:GetMouse())
 game.StarterGui:SetCore("SendNotification",{
 			Title = "Speed Enabled";
 			Text = "Fake macro by BBvxy";
-			Duration = 0.20;
+			Duration = 1;
 		})
 end)
 
