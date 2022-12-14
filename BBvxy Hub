@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("bbvxy hub v0.8", "BloodTheme")
+local Window = Library.CreateLib("bbvxy hub v0.9", "BloodTheme")
 
 local Tab = Window:NewTab("Welcome")
 local PlayerSection = Tab:NewSection("thanks for using bbvxy hub")
@@ -473,7 +473,7 @@ BSection:NewButton("Anti Lock (not mine)", "Credits to chrsschrs", function()
 end)
 
 local GSection = Tab:NewSection("Aim Viewer By RAYCODEX")
-GSection:NewButton("Aim Viewer)", "Expose Lockers (Credits to RAYCODEX", function()
+GSection:NewButton("Aim Viewer", "Expose Lockers (Credits to RAYCODEX", function()
     ([[
                 This script has been licensed using Luauth
             Unauthorized distribution of this script is forbidden.
