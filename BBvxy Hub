@@ -3,7 +3,7 @@ local Window = Library.CreateLib("bbvxy hub v0.14", "BloodTheme")
 
 local Tab = Window:NewTab("Welcome")
 local PlayerSection = Tab:NewSection("thanks for using bbvxy hub")
-local PlayerSection = Tab:NewSection("DM me Bobby? #4428 to give me script ideas")
+local PlayerSection = Tab:NewSection("DM me BBvxy#1663to give me script ideas")
 
 local Tab = Window:NewTab("Main")
 local MainSection = Tab:NewSection("Main (still gotta add more features)")
